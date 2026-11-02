@@ -791,6 +791,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 13,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-bunmei-osei-shiika",
   "work": "文明年中応制詩歌",
@@ -803,7 +807,7 @@
   "blocks": 13,
   "chars": 3502,
   "poems": 40,
-  "yaku": 0,
+  "yaku": 13,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T21:42:33+09:00"
